@@ -4,7 +4,7 @@ Software developer focused on desktop applications, developer tools, automation,
 
 ### Languages
 
-TypeScript • Python • C++ • Lua • SQL
+TypeScript • Python • C++ • Lua
 
 ### Game Development
 
