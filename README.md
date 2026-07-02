@@ -1,6 +1,6 @@
 # Hi, I'm RCN 👋
 
-Software developer focused on desktop applications, developer tools, automation, and reverse engineering.
+Software developer and reverse engineering.
 
 ### Languages
 
