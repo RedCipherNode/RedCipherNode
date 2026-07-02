@@ -1,15 +1,14 @@
 # Hi, I'm RCN 👋
 
-Software developer and reverse engineering.
+### Software Engineer
+
+Building desktop software, automation tools,
+and reverse engineering systems.
 
 ### Languages
 
 TypeScript • Python • C++ • Lua
 
-### Game Development
+### Focus
 
-Godot • Unity
-
-### Interests
-
-Desktop Applications • Simulation Systems • Reverse Engineering • Automation • Security
+Desktop Applications • Automation • Reverse Engineering • Simulation Systems
