@@ -7,7 +7,7 @@ and reverse engineering systems.
 
 ### Languages
 
-TypeScript • Python • C++ • Lua
+TypeScript • Python • C++ • Rust
 
 ### Focus
 
